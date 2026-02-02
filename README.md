@@ -66,7 +66,7 @@ model = PK.load(open('House_Prediction_Model.pkl', 'rb'))
 data = pd.read_csv('cleaned_data.csv')
 ```
 
----
+---  
 
 🧪 Model Details
 
